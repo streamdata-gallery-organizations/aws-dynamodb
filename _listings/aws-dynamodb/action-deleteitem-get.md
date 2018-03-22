@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DeleteItem&k=1:
+  /?Action=DeleteItem:
     get:
       summary: ' Delete Item '
       description: Deletes a single item in a table by primary key
