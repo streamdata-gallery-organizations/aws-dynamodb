@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeLimits&k=1:
+  /?Action=DescribeLimits:
     get:
       summary: ' Describe Limits '
       description: Returns the current provisioned-capacity limits for your AWS account
