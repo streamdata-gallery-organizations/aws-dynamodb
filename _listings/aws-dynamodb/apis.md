@@ -13,8 +13,8 @@ tags:
 - Stack Network
 - Database
 - Amazon Web Services
-created: "2018-03-14"
-modified: "2018-03-14"
+created: "2018-03-21"
+modified: "2018-03-21"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-dynamodb/master/_listings/aws-dynamodb/apis.yaml
 specificationVersion: "0.14"
 apis:
