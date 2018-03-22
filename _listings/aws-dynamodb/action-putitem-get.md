@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=PutItem&k=1:
+  /?Action=PutItem:
     get:
       summary: ' Put Item '
       description: Creates a new item, or replaces an old item with a new item
