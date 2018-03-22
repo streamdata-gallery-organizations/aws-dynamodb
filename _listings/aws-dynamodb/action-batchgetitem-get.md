@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=BatchGetItem&k=1:
+  /?Action=BatchGetItem:
     get:
       summary: ' Batch Get Item '
       description: |-
