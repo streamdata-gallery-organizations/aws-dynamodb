@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=Scan&k=1:
+  /?Action=Scan:
     get:
       summary: ' Scan '
       description: |-
