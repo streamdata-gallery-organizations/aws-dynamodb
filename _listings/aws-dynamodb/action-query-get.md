@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=Query&k=1:
+  /?Action=Query:
     get:
       summary: ' Query '
       description: |-
