@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=BatchWriteItem&k=1:
+  /?Action=BatchWriteItem:
     get:
       summary: ' Batch Write Item '
       description: The BatchWriteItem operation puts or deletes multiple items in
