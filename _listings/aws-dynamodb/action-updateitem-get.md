@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=UpdateItem&k=1:
+  /?Action=UpdateItem:
     get:
       summary: ' Update Item '
       description: Edits an existing item's attributes, or adds a new item to the
